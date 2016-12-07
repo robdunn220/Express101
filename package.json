@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robdunn220/Express101.git"
+  },
+  "author": "Rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robdunn220/Express101/issues"
+  },
+  "homepage": "https://github.com/robdunn220/Express101#readme"
+}
